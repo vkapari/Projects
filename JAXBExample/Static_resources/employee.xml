@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<expenseReport>
+    <user>
+        <userName>Sanaulla</userName>
+    </user>
+    <items>
+        <item>
+            <itemName>Seagate External HDD</itemName>
+            <purchasedOn>August 24, 2010</purchasedOn>
+            <amount>6776.5</amount>
+            <warranty>5-Y</warranty>
+        </item>
+    </items>
+</expenseReport>
